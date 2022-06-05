@@ -2,7 +2,7 @@
 Module 18
 
 ## Overview of the Analysis
-The purpose of this analysis is to anaylyze cryptocurrencies using unsupervised machine learning techniques inlcuding KMeans and HVplot.
+The purpose of this analysis is to anaylyze cryptocurrencies using unsupervised machine learning techniques inlcuding KMeans, PCA, and HVplot.
 
 Four Deliverables were expected:
 
