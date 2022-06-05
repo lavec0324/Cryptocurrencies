@@ -628,3 +628,93 @@ Ouroboros,1
 POS 2.0,1
 Proof-of-BibleHash,1
 TRC10,1
+,Algorithm
+Scrypt,394
+X11,182
+SHA-256,121
+X13,54
+PoS,42
+CryptoNight,34
+Quark,26
+Equihash,23
+NIST5,20
+DPoS,18
+Multiple,18
+NeoScrypt,17
+SHA-256D,16
+Ethash,16
+X15,14
+Lyra2REv2,7
+Lyra2RE,6
+QuBit,6
+Blake,6
+XEVAN,6
+Scrypt-n,6
+CryptoNight-V7,5
+Lyra2Z,5
+Groestl,5
+Dagger,4
+X16R,4
+Skein,4
+Blake2S,4
+PHI1612,3
+SkunkHash,3
+Keccak,3
+POS 3.0,3
+SHA-512,3
+Blake2b,2
+536,2
+CryptoNight Heavy,2
+BLAKE256,2
+C11,2
+Leased POS,2
+SHA3,2
+Argon2,2
+Time Travel,2
+Curve25519,2
+Tribus,1
+T-Inside,1
+Jump Consistent Hash,1
+Semux BFT consensus,1
+SHA3-256,1
+Green Protocol,1
+IMesh,1
+YescryptR16,1
+Equihash1927,1
+Slatechain,1
+HMQ1725,1
+Zhash,1
+QuarkTX,1
+Equihash+Scrypt,1
+Cryptonight-GPU,1
+CryptoNight-lite,1
+ECC 256K1,1
+CryptoNight Heavy X,1
+VBFT,1
+Rainforest,1
+Exosis,1
+X14,1
+Proof-of-Authority,1
+SHA-256 + Hive,1
+HybridScryptHash256,1
+Shabal256,1
+Counterparty,1
+Momentum,1
+Stanford Folding,1
+XG Hash,1
+M7 POW,1
+QUAIT,1
+vDPOS,1
+1GB AES Pattern Search,1
+CryptoNight-Lite,1
+X11GOST,1
+Progressive-n,1
+Dagger-Hashimoto,1
+Argon2d,1
+Cloverhash,1
+SkunkHash v2 Raptor,1
+VeChainThor Authority,1
+Ouroboros,1
+POS 2.0,1
+Proof-of-BibleHash,1
+TRC10,1
